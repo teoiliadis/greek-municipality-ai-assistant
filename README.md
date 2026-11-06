@@ -1,7 +1,5 @@
 # Greek Municipality AI Assistant
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20Application-0f766e?style=for-the-badge)](https://chalkidona-fokqn7a2-ca.greentree-bb18dc8f.northeurope.azurecontainerapps.io/#/demo)
-
 Greek Municipality AI Assistant is a cloud-native, multi-agent RAG platform for Greek local government. It helps citizens ask natural-language questions, find municipal information, report local issues, and receive structured guidance through a web interface or Facebook Messenger.
 
 ## Architecture
